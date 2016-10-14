@@ -204,6 +204,18 @@ hr.small {
     -o-background-size: cover;
 }
 
+.ballroom {
+    display: table;
+    width: 100%;
+    height: 400px;
+    color: #fff;
+    background: url(../img/ballroom.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 .castle {
     display: table;
     width: 100%;
